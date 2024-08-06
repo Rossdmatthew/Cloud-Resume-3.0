@@ -1,0 +1,5 @@
+C:\Users\Ferris\OneDrive\Documents\GitHub\Cloud-Resume 3.0\backend\bin\Debug\net6.0\CoverletSourceRootsMapping_test
+C:\Users\Ferris\OneDrive\Documents\GitHub\Cloud-Resume 3.0\backend\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+C:\Users\Ferris\OneDrive\Documents\GitHub\Cloud-Resume 3.0\backend\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferris\OneDrive\Documents\GitHub\Cloud-Resume 3.0\backend\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+C:\Users\Ferris\OneDrive\Documents\GitHub\Cloud-Resume 3.0\backend\obj\Debug\net6.0\test.sourcelink.json
