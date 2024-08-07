@@ -117,7 +117,7 @@
           "C:\\Users\\Ferris\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {},
@@ -125,8 +125,8 @@
           "https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
               "C:\\Users\\Ferris\\OneDrive\\Documents\\GitHub\\Cloud-Resume 3.0\\backend\\api\\backend.csproj": {
                 "projectPath": "C:\\Users\\Ferris\\OneDrive\\Documents\\GitHub\\Cloud-Resume 3.0\\backend\\api\\backend.csproj"
@@ -146,16 +146,16 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.8.0, )"
+              "version": "[17.10.0, )"
             },
             "coverlet.collector": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.2, )"
             },
             "microsoft.aspnetcore.mvc": {
               "target": "Package",
@@ -163,11 +163,11 @@
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.5.3, )"
+              "version": "[2.9.0, )"
             },
             "xunit.runner.visualstudio": {
               "target": "Package",
-              "version": "[2.5.3, )"
+              "version": "[2.8.2, )"
             }
           },
           "imports": [
@@ -181,26 +181,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.32, 6.0.32]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.32, 6.0.32]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.32, 6.0.32]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
