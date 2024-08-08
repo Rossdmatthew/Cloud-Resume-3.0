@@ -58,3 +58,4 @@ Blog post in progress on Dev.to
 2. ARM for Infrastructure as Code.
 3. Blog post.
 4. Python Program to add to website.
+5. Update to dotnet 8.
