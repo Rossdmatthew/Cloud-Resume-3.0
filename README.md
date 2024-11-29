@@ -5,7 +5,7 @@
 The Cloud Resume Challenge consist of 16 steps.
 
 **1. Certification:** 
-Studying for the AZ-900 to take in September.
+Studying for the AZ-900 to take in December.
 
 **2. HTML:** 
 HTML is a Template is named CeeVee and was provided with the starter materials from ACG.
